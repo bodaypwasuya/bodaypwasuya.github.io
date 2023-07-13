@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodaypwasuya.github.io/sitemap.xml
